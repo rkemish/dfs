@@ -1,0 +1,15 @@
+/Users/rkemish/Documents/GitHub/dfs/adjacency/bin/Debug/net9.0/adjacency
+/Users/rkemish/Documents/GitHub/dfs/adjacency/bin/Debug/net9.0/adjacency.deps.json
+/Users/rkemish/Documents/GitHub/dfs/adjacency/bin/Debug/net9.0/adjacency.runtimeconfig.json
+/Users/rkemish/Documents/GitHub/dfs/adjacency/bin/Debug/net9.0/adjacency.dll
+/Users/rkemish/Documents/GitHub/dfs/adjacency/bin/Debug/net9.0/adjacency.pdb
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.AssemblyInfoInputs.cache
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.AssemblyInfo.cs
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.csproj.CoreCompileInputs.cache
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.sourcelink.json
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.dll
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/refint/adjacency.dll
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.pdb
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/adjacency.genruntimeconfig.cache
+/Users/rkemish/Documents/GitHub/dfs/adjacency/obj/Debug/net9.0/ref/adjacency.dll
