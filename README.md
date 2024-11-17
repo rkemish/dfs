@@ -17,4 +17,4 @@ DFS is inherently designed to go “as deep as possible” along a branch before
 
  [DFS Recursive Implementation](/recursive/recursive.md)\
  [DFS Iterative Implementation](/iterative/iterative.md)\
- [DFS Recursive Implementation](/adjacency/adjacency.md)\
+ [Adjacency List](/adjacency/adjacency.md)
