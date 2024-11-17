@@ -1,0 +1,15 @@
+/Users/rkemish/Documents/GitHub/dfs/recursive/bin/Debug/net9.0/recursive
+/Users/rkemish/Documents/GitHub/dfs/recursive/bin/Debug/net9.0/recursive.deps.json
+/Users/rkemish/Documents/GitHub/dfs/recursive/bin/Debug/net9.0/recursive.runtimeconfig.json
+/Users/rkemish/Documents/GitHub/dfs/recursive/bin/Debug/net9.0/recursive.dll
+/Users/rkemish/Documents/GitHub/dfs/recursive/bin/Debug/net9.0/recursive.pdb
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.AssemblyInfoInputs.cache
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.AssemblyInfo.cs
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.csproj.CoreCompileInputs.cache
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.sourcelink.json
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.dll
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/refint/recursive.dll
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.pdb
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/recursive.genruntimeconfig.cache
+/Users/rkemish/Documents/GitHub/dfs/recursive/obj/Debug/net9.0/ref/recursive.dll
