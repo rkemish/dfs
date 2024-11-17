@@ -15,6 +15,6 @@ When DFS reaches a dead-end (a node with no unvisited neighbors), it “backtrac
 
 DFS is inherently designed to go “as deep as possible” along a branch before exploring alternate paths. Without backtracking, DFS would be unable to return to the decision point where it chose a specific path and examine other possibilities.
 
- [DFS Recursive Implementation](/recursive/recursive.md) </br>
- [DFS Iterative Implementation](/iterative/iterative.md)</br>
- [DFS Recursive Implementation](/adjacency/adjacency.md)</br>
+ [DFS Recursive Implementation](/recursive/recursive.md)\
+ [DFS Iterative Implementation](/iterative/iterative.md)\
+ [DFS Recursive Implementation](/adjacency/adjacency.md)\
